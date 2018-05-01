@@ -16,7 +16,7 @@ LABEL maintainer="Patrick Paechnatz <patrick.paechnatz@gmail.com>" \
       img.version="1.0.0" \
       img.description="alpine base image container"
 
-ARG DOCKERIZE_VERSION=v0.6.1
+ARG DOCKERIZE_VERSION=v0.6.1 
 ARG ISO_LANGUAGE=en
 ARG ISO_COUNTRY=US
 
